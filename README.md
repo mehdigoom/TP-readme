@@ -23,5 +23,5 @@ It enables encrypting to hash passwords. To connect to the database be sure to m
   it uses Nodejs, ES5 and can be served up with postman. There is no front for the moment.
 
 ## Authors
-shelley
+shelley </br>
 Mehdi
