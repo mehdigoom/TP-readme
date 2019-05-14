@@ -1,7 +1,7 @@
 # TP-readme jwt-Passport
 ## Installation
 
-    * git clone https://github.com/qdanneville/passport-jwt-mysql
+    * git clone https://github.com/mehdigoom/TP-readme.git
     * npm install
     * npm run start-dev
 
